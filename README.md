@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mustafa Khazbak</h1>
-<h3 align="center">A passionate Cloud Engineer from Egypt</h3>
+# Hi 👋, I'm Mustafa Khazbak  
+### 🚀 A Passionate Cloud & DevOps Engineer from Egypt  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+I’m a DevOps Engineer with hands-on experience designing, deploying, and automating scalable infrastructures — both in the cloud and on-prem.  
+I specialize in **Kubernetes**, **CI/CD pipelines**, and **observability stacks** like **Prometheus**, **Grafana**, and **EFK**.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> </p>
+Certified in **Azure**, **Red Hat**, and **CCNA**, I’m dedicated to accelerating deployments, improving reliability, and driving DevOps best practices.  
+
+💡 Here, you’ll find projects and tools I’ve built, used, and optimized throughout my DevOps journey.  
+
+---
